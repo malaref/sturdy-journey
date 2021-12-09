@@ -1,6 +1,6 @@
 #include <unistd.h>
 #include <stdio.h>
-// this is a comment
+// this is NOT A COMMENT
 int main()
 {
     int x = 3;
