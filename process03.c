@@ -6,7 +6,7 @@
 int main()
 {
     printf("\nmy pid = %d\n", getpid()); // batee5
-    int pid = fork();
+    int pid = fork(); // ffefrgergegrgre
 
     if (pid == -1)
         perror("error in fork");
