@@ -5,7 +5,7 @@
 
 int main()
 {
-    printf("\nmy pid = %d\n", getpid());
+    printf("\nmy pid = %d\n", getpid()); // batee5
     int pid = fork();
 
     if (pid == -1)
